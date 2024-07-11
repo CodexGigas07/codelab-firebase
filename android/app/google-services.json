@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222641521093",
+    "project_id": "fir-flutter-codelab-b9813",
+    "storage_bucket": "fir-flutter-codelab-b9813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222641521093:android:3102c2d9f33c78fd3f0bac",
+        "android_client_info": {
+          "package_name": "com.ola.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo3_5jM_zauz5kCw6tIjbmu5cYzaUf9q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
